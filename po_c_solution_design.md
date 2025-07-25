@@ -183,7 +183,7 @@ Use this API for testing POs or integrating with CDW UI/OMS/Router.
 
 ## 🔹 Thank You – Q&A
 
-**Team:** [Your Names Here]\
+**Team:** CodeShipRepeat\
 **Project:** Drop Ship Order Automation Engine (Modular, KG/KC Focus)
 
 📁 GitHub: [github.com/yourteam/drop-ship-automation](https://github.com/yourteam/drop-ship-automation)
