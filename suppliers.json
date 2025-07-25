@@ -1,0 +1,11 @@
+{
+  "PDX": {
+    "allowed_methods": ["KG", "KC"]
+  },
+  "ACME": {
+    "allowed_methods": []
+  },
+  "ZEN": {
+    "allowed_methods": ["KC"]
+  }
+}

@@ -37,7 +37,24 @@ We created a lightweight, standalone engine that:
 ---
 
 ## ▶️ How to Run
-Install dependencies:
+1. **Install dependencies:**
+
 
 ```bash
 pip install -r requirements.txt
+```
+2. **Start the API server:**
+
+Run the Flask API server first in the Terminal in project directory
+to serve PO evaluation requests. This will start the server (default at http://127.0.0.1:5000).
+
+
+```bash
+python api_server.py
+```
+
+3. **Run `automate_po.py` in a separate Terminal window:**
+```bash
+automate_po.py
+```
+
